@@ -6,7 +6,7 @@ This basically has two features :
 2. Execute : Complies and runs the A.cpp program on the input.txt file and produces output.txt file.
 
 #Installation
-- Linux version with nemo as it's file manager.
+- Linux version with `nemo` as it's file manager.
 The process is very straightforward, just download the following files and place them in the specified folders.
 
     File | Folder to save
@@ -17,7 +17,7 @@ The process is very straightforward, just download the following files and place
     [GCJ_Execute.nemo_action] (https://github.com/saurabhsuniljain/GCJ_Plugin/blob/master/GCJ_Execute.nemo_action) | /home/$USER/.local/share/nemo/actions
 
     
-- Linux version with nautilus as it's file manger.
+- Linux version with `nautilus` as it's file manger.
 First download the two scripts and save them in specified folders.
 
     File | Folder to save

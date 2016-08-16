@@ -1,0 +1,7 @@
+[Nemo Action]
+Name=Execute
+Comment=Google Code Jam Plugin
+Quote=double
+Exec=<../scripts/GCJ_Execute.sh %P>
+Selection = none
+Extensions=dir

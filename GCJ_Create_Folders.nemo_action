@@ -1,0 +1,7 @@
+[Nemo Action]
+Name=Create Folders
+Comment=Google Code Jam Plugin
+Quote=double
+Exec=<../scripts/GCJ_Create_Folders.sh %P>
+Selection = none
+Extensions=dir

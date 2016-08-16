@@ -13,5 +13,5 @@ The process is very straightforward, just download the following files and place
     --- | ---
     [GCJ_Create Folders.sh] (https://github.com/saurabhsuniljain/GCJ_Plugin/blob/master/GCJ_Create%20Folders.sh) | /home/$USER/.local/share/nemo/scripts
     [GCJ_Execute.sh] (https://github.com/saurabhsuniljain/GCJ_Plugin/blob/master/GCJ_Execute.sh) | /home/$USER/.local/share/nemo/scripts
-    [GCJ_Create Folders.nemo_action] (https://github.com/saurabhsuniljain/GCJ_Plugin/blob/master/GCJ_Create%20Folders.nemo_action) | /home/$USER/.local/share/nemo/actions
+    [GCJ_Create Folders.nemo_action] (https://github.com/saurabhsuniljain/GCJ_Plugin/blob/master/GCJ_Creat_Folders.nemo_action) | /home/$USER/.local/share/nemo/actions
     [GCJ_Execute.nemo_action] (https://github.com/saurabhsuniljain/GCJ_Plugin/blob/master/GCJ_Execute.nemo_action) | /home/$USER/.local/share/nemo/actions

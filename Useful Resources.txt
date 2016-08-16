@@ -1,1 +1,1 @@
-http://www.howtogeek.com/116807/how-to-easily-add-custom-right-click-options-to-ubuntus-file-manager/
+[Tutorial -  How to Easily Add Custom Right-Click Options to Ubuntu’s File Manager] (http://www.howtogeek.com/116807/how-to-easily-add-custom-right-click-options-to-ubuntus-file-manager/)

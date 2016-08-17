@@ -32,10 +32,8 @@ Now follow [this] (http://www.howtogeek.com/116807/how-to-easily-add-custom-righ
 ![alt tag] (https://github.com/saurabhsuniljain/GCJ_Plugin/raw/master/GCJ_Setup_2.png)
 
 #Usage
-- Linux with `nemo` file manager
-You can use this in two ways, either go to the contest folder you created right-click and choose whichever action you want to perform or select the folder, right-click and choose the script to run from the scripts sub-menu.
-- Linux with `nautilus` file manager
-You can direclty right-click in the specified and choose the action.
+- Linux with `nemo` file manager : You can use this in two ways, either go to the contest folder you created right-click and choose whichever action you want to perform or select the folder, right-click and choose the script to run from the scripts sub-menu.
+- Linux with `nautilus` file manager : You can direclty right-click in the specified and choose the action.
 
 #Future Works :
 I also would like to add some new features like automatically submitting a solution and output file, automatically fetching the problem list and creating the folders for all the problems. Also downloading pdfs for all the problems.

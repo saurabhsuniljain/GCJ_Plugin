@@ -1,5 +1,5 @@
 [Nemo Action]
-Name=Execute
+Name=GCJ-Execute
 Comment=Google Code Jam Plugin
 Quote=double
 Exec=<../scripts/GCJ_Execute.sh %P>
